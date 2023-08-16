@@ -1,0 +1,87 @@
+# testing-mindmaps
+This initiative was from Santhosh Tuppad [ A passionate software tester and also an ethical hacker from age 12 ]. 
+
+# Santhosh Tuppad's LinkedIn Profile:
+https://www.linkedin.com/in/santhosh-tuppad-338b7412/
+
+# Santhosh Tuppad's Twitter / X Profile:
+https://twitter.com/santhoshst
+
+# Following are the contributors of the MindMaps Repository who contributed individually and also as a team.
+Darren McMillan
+1 Post
+
+Albert Gareev
+3 Posts
+
+Sudhamshu Rao
+3 Posts
+
+James Bach
+1 Post
+
+Abhinav
+5 Posts
+
+Sandeep Hiremath
+5 Posts
+
+Ram Malapati
+2 Post
+
+Nagasahas Dasa
+2 Posts
+
+Susan Finley
+1 Post
+
+Mudrika Agrawal
+1 Post
+
+Anonymous
+3 Posts
+
+Andres Curcio
+1 Post
+
+Nandagopal
+1 Post
+
+Santhosh Tuppad
+8 Posts
+
+Jyothi Rangaiah
+19 Posts
+
+Parimala Hariprasad
+6 Posts
+
+Thomas Ponnet
+1 Post
+
+Anand Bagmar
+1 Post
+
+Mohit Rajan Verma
+4 Posts
+
+Dhanasekar Subramaniam
+3 Posts
+
+Prashant Hegde
+2 Posts
+
+Jasmeet Singh Bhatia
+1 Post
+
+Pranav KS
+4 Posts
+
+Test Maniac
+31 Posts
+
+Rich Rogers
+1 Post
+
+Yagnesh Shah
+4 Posts
