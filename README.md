@@ -1,6 +1,8 @@
 # testing-mindmaps
 This initiative was from Santhosh Tuppad [ A passionate software tester and also an ethical hacker from age 12 ]. 
 
+For archives of TestInsane MindMaps, please visit https://web.archive.org/web/20220328061742/http://apps.testinsane.com/mindmaps
+
 # Santhosh Tuppad's LinkedIn Profile:
 https://www.linkedin.com/in/santhosh-tuppad-338b7412/
 
