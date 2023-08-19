@@ -1,5 +1,8 @@
-# testing-mindmaps
+# Software Testing MindMaps
 This initiative was from Santhosh Tuppad [ A passionate software tester and also an ethical hacker from age 12 ]. 
+
+James Bach wrote about this repository on his blog:
+URL: https://www.satisfice.com/blog/archives/1556 [ Please don't use the old URL mentioned on James's Blog, but refer this repository here instead ]
 
 For archives of TestInsane MindMaps, please visit https://web.archive.org/web/20220328061742/http://apps.testinsane.com/mindmaps
 
