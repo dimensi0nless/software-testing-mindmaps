@@ -12,7 +12,7 @@ https://www.linkedin.com/in/santhosh-tuppad-338b7412/
 # Santhosh Tuppad's Twitter / X Profile:
 https://twitter.com/santhoshst
 
-# Following are the contributors of the MindMaps Repository who contributed individually and also as a team.
+# Contributors
 Darren McMillan
 1 Post
 
