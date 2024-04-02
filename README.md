@@ -6,7 +6,7 @@ URL: https://www.satisfice.com/blog/archives/1556 [ Please don't use the old URL
 
 For archives of TestInsane MindMaps, please visit https://web.archive.org/web/20220328061742/http://apps.testinsane.com/mindmaps
 
-**Supporters:**
+**Supporter(s):**
 
 <a href="https://qamentor.com" target="blank">![QA Mentor Logo](https://github.com/dimensi0nless/software-testing-mindmaps/assets/95179448/3f5894c5-9996-4b5a-9044-26ef7cb50840)
 
